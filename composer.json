@@ -1,0 +1,15 @@
+{
+    "name": "b4zs/form-demo",
+    "require": {
+        "symfony/form": "3.*",
+        "symfony/templating": "3.*",
+        "symfony/validator": "3.*",
+        "symfony/framework-bundle": "3.*"
+    },
+    "authors": [
+        {
+            "name": "Balazs Varga",
+            "email": "b4zs@b4zs.com"
+        }
+    ]
+}
